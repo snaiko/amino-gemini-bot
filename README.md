@@ -1,1 +1,0 @@
-# amino-gemini-bot
